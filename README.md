@@ -59,5 +59,5 @@ java -cp .:path/to/core.jar src.WalkingSim
 ## Contributions
 Contributions to WalkingSim are welcome! Please fork the repository, make your changes, and submit a pull request for review.
 
-### Lasst Updated
+### Last Updated
 04/13/2024
